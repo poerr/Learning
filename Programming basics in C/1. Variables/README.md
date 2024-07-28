@@ -44,6 +44,7 @@ Standard functions we will be working with:
 `prinf` - used to print some text on the command line
 > int x = 5;
 > printf("The number is %d!", x);
+
 `scanf` - used to take input from the console that the user will be typing in
 > int x;
 > scanf("%d", &x);
