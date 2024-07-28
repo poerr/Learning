@@ -43,10 +43,12 @@ Difference between them (other than the type of value they can hold) is how much
 Standard functions we will be working with:
 `prinf` - used to print some text on the command line
 > int x = 5;
+>
 > printf("The number is %d!", x);
 
 `scanf` - used to take input from the console that the user will be typing in
 > int x;
+>
 > scanf("%d", &x);
 
 These are some examples of their usage. You may be wandering what does '%d' stand for?
