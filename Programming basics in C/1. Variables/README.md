@@ -60,8 +60,8 @@ These are format specificators. In the above examples we want to print out an `i
 
 ## Exercises
 
-**Exercise 1:** Let the user input one int value and print that value to the power of 3.
-**Exercise 2:** User inputs the radius of the circle, and your job is to calculate the area and circumference of the circle and print it out to the console.
-**Exercise 3:** The user inputs 3 numbers. Multiply them all and print it out to the console. Also do the same with addition.
+1. Let the user input one int value and print that value to the power of 3.
+2. User inputs the radius of the circle, and your job is to calculate the area and circumference of the circle and print it out to the console.
+3. The user inputs 3 numbers. Multiply them all and print it out to the console. Also do the same with addition.
 
-**Link for setting up the environment:** [text](https://code.visualstudio.com/docs/cpp/config-mingw)
+**Link for setting up the environment:** [link](https://code.visualstudio.com/docs/cpp/config-mingw)
