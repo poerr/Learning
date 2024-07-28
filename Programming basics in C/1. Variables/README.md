@@ -53,10 +53,10 @@ Standard functions we will be working with:
 
 These are some examples of their usage. You may be wandering what does '%d' stand for?
 These are format specificators. In the above examples we want to print out an `int` value and take input of `int` value. There are other format specifiers, such as:
-`%c` - `char`
-`%u` - `unsigned` value types
-`%f` - `float`
-`%lf` - `double`
+- `%c` - `char`
+- `%u` - `unsigned` value types
+- `%f` - `float`
+- `%lf` - `double`
 
 ## Exercises
 
